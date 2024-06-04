@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogyraso.github.io/sitemap.html
+Sitemap: https://ogyraso.github.io/app/sitemap.html
+Sitemap: https://ogyraso.github.io/assets/sitemap.html
+Sitemap: https://ogyraso.github.io/includes/sitemap.html
+Sitemap: https://ogyraso.github.io/src/sitemap.html
